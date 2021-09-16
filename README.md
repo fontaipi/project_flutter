@@ -1,6 +1,6 @@
 # projet_flutter
 
-A new Flutter project.
+A very new Flutter project.
 
 ## Getting Started
 
